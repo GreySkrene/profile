@@ -1,3 +1,15 @@
+# profile
+A Github Pages website to show my Profile and Resume as an enthusiastic learning of Computer Science.
+
+## License
+
+Copyright (c) 2024, Andrew Moss
+All rights reserved.
+
+This source code is licensed under the Apache-style license found in the
+LICENSE file in the root directory of this source tre
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
